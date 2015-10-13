@@ -1,0 +1,12 @@
+	COMMON/BASE/ Q(3,LINK,Ngr),Y(3,LINK,Ngr),W(3,LINK,Ngr),
+     *	Z(3,LINK,Ngr),
+     *  BW(3,LINK,Ngr),H(3,LINK,Ngr),YB(LINK,Ngr),FK(2,Ngr),FKD(2,Ngr)
+        Common/pchm/ d_part,dmu,dnu,z_obm,ER,Zobm,delvv
+        Common/pch/ flam,a12,a21,a13,a31,fKs,fKb,ros,ro,epsb
+	Common/SCAL/ phi,teta,bet,eps,delt,delx,fn,grav
+
+!   Q - discharge, Y - level,W - crossection, BW - width, H - depth
+!  (time,link,point) 
+!  time: 1 - n, 2 - n+1, 3 - n-1 
+!   YB(link,point) - bottom level
+!   FK - rashodnaja funkcija, FKD - proizvodnaja rash. f-ii

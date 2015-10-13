@@ -1,0 +1,25 @@
+0  - ktrnsprt, priznak rascheta transporta   Sr90
+   delx(m)       phi  teta  bet   eps     fi  fn
+    500        0.5   0.75  0.5   2.  0.0000003 0.026
+d_part(m)	dmu	dnu	z_obm	ER	grav(m/s2)	Zobm	delvv 
+0.00005   	0.01	1E-06	0.02	0.01	9.81  		0.02     0.0
+flam(1/day) a12 a21(1/day) a13      a31   fKs(m3/kg) fKb(m3/kg)   ros(kg/m3) ro   epsb
+0.0000633    1   0.02     0.01   0.002778     15       3          2600     1000  0.6
+ IL  1  2             - branch number
+     14 288 
+ LINK  1  2   - POINT(L,1), initial point
+       1  2  
+       2  3   - POINT(L,IL(L)), end point
+ NDAM - kol-vo grupp
+ 1   
+ MDAM(i,1) - nomera verhnih uzlov na plotinah
+ 1
+ MDAM(i,2) - nomera nizhnih uzlov na plotinah
+ 3
+ NGRUP(i,1) - nomera pervyh uzlov v gruppah
+ 1
+ NGRUP(i,2) - nomera poslednih uzlov v gruppah
+ 3
+ MGRUP(i) - number of nodes v gruppah (use in subroutine SOLSYST)
+3 
+   

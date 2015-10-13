@@ -1,0 +1,23 @@
+- solutionFile = 'models/jacobi/solution.txt'
+- rivtoxFile = 'models/Kanev_new/hyd'
+=content_for :title do
+  HPC
+
+=javascript_include_tag 'main'
+
+%div.content
+  %div.controls
+    %button#make-plots
+      make plots
+    %button#make-rivtox
+      make rivtox
+
+  %div.results
+    = File.read(solutionFile) if File.exists?(solutionFile)
+    = File.read(rivtoxFile) if File.exists?(rivtoxFile)
+
+  %div.plots
+    cached colour
+    =image_tag 'cache_pcolor.png'
+    cached contour
+    =image_tag 'cache_contour.png'
