@@ -2,6 +2,7 @@ Rails.application.routes.draw do
   root 'main#index'
   get 'main/execute' => 'main#execute'
   get 'main/execute/rivtox' => 'main#executeRivtox'
+  get 'main/execute/rivtox2' => 'main#executeRivtox2'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

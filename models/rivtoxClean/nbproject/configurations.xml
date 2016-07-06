@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="97">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <logicalFolder name="src" displayName="src" projectFiles="true">
+        <itemPath>src/Global_mod.f90</itemPath>
+        <itemPath>src/Inter_mod.f90</itemPath>
+        <itemPath>src/MATRIX.f</itemPath>
+        <itemPath>src/Properties.f90</itemPath>
+        <itemPath>src/RWproc.f90</itemPath>
+        <itemPath>src/ReadWrite_f.f90</itemPath>
+        <itemPath>src/backsw.f</itemPath>
+        <itemPath>src/bclq.f</itemPath>
+        <itemPath>src/coeff.f</itemPath>
+        <itemPath>src/cross.f</itemPath>
+        <itemPath>src/dslucs_1.f</itemPath>
+        <itemPath>src/output_old.f90</itemPath>
+        <itemPath>src/output_up.f90</itemPath>
+        <itemPath>src/rdbnds.f90</itemPath>
+        <itemPath>src/rdlito.f</itemPath>
+        <itemPath>src/rivtox_dr.f90</itemPath>
+        <itemPath>src/rwBouss2DBinary.f90</itemPath>
+        <itemPath>src/rwIMMSPAscii.f90</itemPath>
+        <itemPath>src/rwIMMSPBinary.f90</itemPath>
+        <itemPath>src/rwSMSGenericBinary.f90</itemPath>
+        <itemPath>src/sedeq_cell.f90</itemPath>
+        <itemPath>src/solvl.f</itemPath>
+        <itemPath>src/spch_bq.f90</itemPath>
+        <itemPath>src/srcsed.f90</itemPath>
+        <itemPath>src/utils.inc</itemPath>
+      </logicalFolder>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>src</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <fortranCompilerTool>
+          <commandLine>-finit-local-zero -g -ffpe-trap=zero</commandLine>
+        </fortranCompilerTool>
+        <linkerTool>
+          <output>rivtox_new.exe</output>
+          <commandlineTool>gfortran</commandlineTool>
+        </linkerTool>
+      </compileType>
+      <item path="src/Global_mod.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/Inter_mod.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/MATRIX.f" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/Properties.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/ReadWrite_f.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/backsw.f" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/bclq.f" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/coeff.f" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/cross.f" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/dslucs_1.f" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/output_old.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/output_up.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/rdbnds.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/rdlito.f" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/rivtox_dr.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/rwBouss2DBinary.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/rwIMMSPAscii.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/rwIMMSPBinary.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/rwSMSGenericBinary.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/sedeq_cell.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/solvl.f" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/spch_bq.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/srcsed.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/utils.inc" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="src/Global_mod.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/Inter_mod.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/MATRIX.f" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/Properties.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/RWproc.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/ReadWrite_f.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/backsw.f" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/bclq.f" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/coeff.f" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/cross.f" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/dslucs_1.f" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/output_old.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/output_up.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/rdbnds.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/rdlito.f" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/rivtox_dr.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/rwBouss2DBinary.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/rwIMMSPAscii.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/rwIMMSPBinary.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/rwSMSGenericBinary.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/sedeq_cell.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/solvl.f" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/spch_bq.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/srcsed.f90" ex="false" tool="2" flavor2="0">
+      </item>
+      <item path="src/utils.inc" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
