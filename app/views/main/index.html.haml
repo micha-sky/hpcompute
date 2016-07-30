@@ -1,9 +1,16 @@
 - solutionFile = 'models/jacobi/solution.txt'
 - rivtoxFile = 'models/Kanev_new/hyd'
+
 =content_for :title do
-  HPC
+  icloudcompute
+
+=content_for :head do
+  %script{:type => 'text/javascript', :src  => 'https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyCSLnY5ff15-602foDAAKK2G2AUwNqI5OA'}
+
 
 =javascript_include_tag 'main'
+:javascript
+  var execute_rivtox2_path = "#{main_execute_rivtox2_path}";
 
 %div.content
   %div.controls
@@ -13,8 +20,8 @@
       make rivtox
 
   %div.results
-    = File.read(solutionFile) if File.exists?(solutionFile)
-    = File.read(rivtoxFile) if File.exists?(rivtoxFile)
+    -#= File.read(solutionFile) if File.exists?(solutionFile)
+    -#= File.read(rivtoxFile) if File.exists?(rivtoxFile)
 
   %div.plots
     cached colour
