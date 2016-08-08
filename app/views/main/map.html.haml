@@ -1,0 +1,18 @@
+= content_for :title do
+  icloudcompute map
+
+= content_for :head do
+  %script{:type => 'text/javascript', :src  => 'https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyDZoaZwYV6PlRe0_z3kwhz6gSRn_pOg1oc'}
+
+  :javascript
+    var city = new google.maps.LatLng(50.4484234,30.5216194);
+    var zoom = 13;
+
+
+%div.ui-panel
+  main panel
+  %button.ui-panel-button#run-rivtox
+    Run rivtox
+
+%div.content
+  %div#map-canvas

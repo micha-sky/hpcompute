@@ -1,30 +1,10 @@
-- solutionFile = 'models/jacobi/solution.txt'
-- rivtoxFile = 'models/Kanev_new/hyd'
-
 =content_for :title do
   icloudcompute
 
-=content_for :head do
-  %script{:type => 'text/javascript', :src  => 'https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyCSLnY5ff15-602foDAAKK2G2AUwNqI5OA'}
+=video_tag  'clouds.mp4', :autoplay => true, :playsinline => true, :loop => true, :id => 'clouds'
 
-
-=javascript_include_tag 'main'
-:javascript
-  var execute_rivtox2_path = "#{main_execute_rivtox2_path}";
-
-%div.content
-  %div.controls
-    %button#make-plots
-      make plots
-    %button#make-rivtox
-      make rivtox
-
-  %div.results
-    -#= File.read(solutionFile) if File.exists?(solutionFile)
-    -#= File.read(rivtoxFile) if File.exists?(rivtoxFile)
-
-  %div.plots
-    cached colour
-    =image_tag 'cache_pcolor.png'
-    cached contour
-    =image_tag 'cache_contour.png'
+%div.splash-logo
+  = image_tag 'logo.png'
+  %div.splash-text
+    %h2
+      a cloud based platform for scientific computations

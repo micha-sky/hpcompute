@@ -4,8 +4,7 @@ Rails.application.routes.draw do
   get 'main/execute/rivtox' => 'main#executeRivtox'
   get 'main/execute/rivtox2' => 'main#executeRivtox2'
   get 'main/results' => 'main#read_outlocs'
-  get 'main/map' => 'map#show'
-  get 'nexthash' => 'main#next_hash'
+  get 'main/map' => 'main#map'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

@@ -4,10 +4,10 @@ class MainController < ApplicationController
 
   end
 
-  def next_hash
-    hash = params[:hash]
-    render :text => hash + 1 .to_s
+  def map
+
   end
+
 
   def execute
     command = `make plots -C models/jacobi`
@@ -26,11 +26,13 @@ class MainController < ApplicationController
 
   def read_outlocs
     filename = 'outlocs/outloc.0001'
+
     CSV.foreach(filename, { :headers => true, :col_sep => "\t", :skip_blanks => true }) do |row|
       puts row
     end
 
-    render :collection => [1,2,3,5]
+    render :text => File.read(filename)
+
   end
 
   private

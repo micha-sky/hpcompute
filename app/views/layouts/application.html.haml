@@ -5,18 +5,31 @@
     %meta{:charset => 'utf-8'}
     %meta{:name => 'viewport', :content => 'width=device-width, initial-scale=1.0'}
     %title
-      = content_for?(:title) ? yield(:title) : 'icloudcompute'
+      = content_for?(:title) ? yield(:title) : 'Application page'
     = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track' => true
-    = javascript_include_tag 'application', 'data-turbolinks-track' => true
+    -#%link{:href => 'http://fonts.googleapis.com/css?family=Roboto+Condensed', :rel => 'stylesheet', :type => 'text/css'}
     = csrf_meta_tags
     = yield(:head)
-
   %body
-    %div.container
+    %div.container_15
+      %div.loading
+
       %div.header
+        %div
+          %a{:href => "/"}
+            = image_tag 'cloud.png', :alt => 'logo', :class => 'logo-image'
+        %div.grid_4
 
 
-  = yield
+      = yield
 
-  %div.footer
-    2015 cloud compute
+      %div.footer
+        %div.grid_15
+          %span.ui-widget
+            © Copyright 2016 icloudcompute project, Ukraine, Kiev.
+          %span.ui-widget
+            Revision:
+            = File.exists?('REVISION') ? File.read('REVISION') : 'N/A'
+        %div.clear
+
+      = javascript_include_tag 'application', 'data-turbolinks-track' => true
