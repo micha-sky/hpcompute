@@ -1,0 +1,1581 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Dnipro_points" id="Dnipro_points">
+	<SimpleField name="Id" type="int"></SimpleField>
+</Schema>
+<Folder><name>Dnipro_points</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.528817346964967,50.542300006037969</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.532493088136892,50.538463717550449</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.536132072885227,50.534613543300388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.539918443540852,50.530822921317082</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.541636587445467,50.526541036364144</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.53925170934286,50.522346630637152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.535292703037488,50.518630482548318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.53108703153093,50.515023183849493</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.527486197230232,50.511167142719067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.526210226648818,50.506801557090881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.527838320601671,50.502441896685575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.530722314116147,50.498343527054097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.534049093823718,50.494381156567101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.537260882141464,50.490381162028427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.540692649398952,50.486457748199761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.543020692292796,50.482263088857302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.540635582205166,50.478105163126756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.53638696748488,50.474521543619943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.532564948390149,50.470758396613704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.53128795554921,50.46636953609265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.531595253398098,50.461884503222947</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.533341226744511,50.457543151270265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.537758252864197,50.454105816184658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.543760619544134,50.451768952300355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.550071536891828,50.449776884453961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.556143348409599,50.447510749250768</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.561188049589251,50.444396949015804</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.565374274110237,50.440786012813653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.569020074736056,50.43694230763478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.572278087496905,50.432958446581758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.575297802267777,50.428898407375513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.578209017830531,50.424806132808129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.58094494836206,50.42066513349436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.583337925316776,50.416438919073826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.585195866808235,50.412105190941247</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.58626591110448,50.407665257278531</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.586625181679846,50.403177282949521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.58654905996428,50.398682806980467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.586296382665161,50.394190630616038</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.586115900692661,50.389697168225524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.585802810564548,50.385207869020633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.585039740347923,50.380739686287384</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.584107262413998,50.376284317215422</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.583267242667819,50.371821630783181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.582802625238479,50.367337449803415</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.58305866217885,50.362848545520549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.584446513149562,50.358449240647133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.587175094085698,50.354314166220576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.590916031518866,50.350513368836452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.595296376885798,50.347000927709999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.600043063159973,50.343687930783027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.60496339080888,50.340479982392502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.60990676361515,50.337286704981118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.61473160329933,50.334020545378081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.619275908889939,50.330594530567303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.623329900111106,50.326926668973115</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.627145724149411,50.323153188963438</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.630980009094966,50.319387482958334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.634749205197195,50.315595118325724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.638368498849907,50.311743614705556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.641744637182658,50.307802960063611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.644769650257544,50.303747507838146</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.647316697953933,50.299560150692727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.649238360489758,50.295238920816672</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.650081360650724,50.290781807065784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.650032491107954,50.286288075134259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.649622033408516,50.281800593176364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.649309179448501,50.277310234032647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.649596223632948,50.272821809291315</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.651127740789363,50.268445645528395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.654211579137613,50.264417822297972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.658406728868869,50.260821409739599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.663290175344159,50.257598226564689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.668560482444878,50.254634296852721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.674018537206209,50.251812877903163</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.679519568105892,50.249026048462348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.684934014583757,50.246170934929637</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.690114541154877,50.243143773416378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.694861787969295,50.239839297671516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.699209370480524,50.236313485695938</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.703395940684732,50.232708446468784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.707461234471289,50.229046808116287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.711446575666539,50.225349261788054</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.715394114382317,50.221635168586964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.719346352523615,50.217923262448586</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.723346945937102,50.214232906613709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.727435474880163,50.210582578212119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.731545437498355,50.206942282445816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.735583013846778,50.203269002402635</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.739450205497352,50.199521309740369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.743012577013257,50.195652211695347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.745955757818525,50.191575262954338</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.748308843243581,50.187342536475839</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.750197508556212,50.183014418989501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.751745863620794,50.178630609908247</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.753069538900334,50.174216361155239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.754276180776372,50.16978820938769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.755469376621431,50.165358551705282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.756753989667104,50.160939544480399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.758241962445481,50.156547153778661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.760057648381405,50.152206325412564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.762340399795885,50.147958182543626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.765238988794806,50.143869143332594</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.768888660063528,50.140038027876336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.773362955046387,50.136588262769379</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.778235369330098,50.133363218449567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.783268944539376,50.130242693023455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.788562007998451,50.12730595236529</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.794221881894579,50.124669249351221</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.800368157749471,50.122536177189893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.807067988981828,50.121307078697711</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.813998700390012,50.1216993445395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.820588919467024,50.123186281491314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.826888330905074,50.125136049139066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.833099224613505,50.127201865633801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.839423811242973,50.129117943152572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.846047824063348,50.130542863923402</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.852989428950583,50.13089931888851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.859895366906745,50.130215073272808</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.866612864773259,50.128972805201272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.873107919262765,50.127310172785556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.87937447774171,50.125317142877321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.885412537844886,50.123051105994904</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.891218135995658,50.120546622782598</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.896776131681143,50.117820075835816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.901981112637365,50.114823047512452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.906377884344213,50.111333911082433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.909962520220219,50.107477580735797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.912894941979317,50.103398214643143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.915354873312275,50.099190830575331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.917507430938549,50.09491389538092</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.919497878691217,50.090604423636215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.921457649860219,50.08628913057531</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.923513111532067,50.081992443552011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.925794082039246,50.077743450334438</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.928440322050573,50.073583671920943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.931602346519092,50.069576824631483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.935364316542699,50.065790396999333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.939413617725933,50.062127716136153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.943662252614228,50.058559901456228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.948081414555642,50.055079089003762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.952644635097748,50.051676309845163</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.957327670882233,50.048341832171126</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.962108260482381,50.045065405467305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.966965802332574,50.041836419231622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.971880986464654,50.038643991427151</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.976835397521867,50.035477001547989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.981811095026359,50.032324081448984</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.986789658255464,50.029173241832638</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.991742051122205,50.026005545165333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.996673776178117,50.022824686055586</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.001604064579126,50.019643102351139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.006551487639818,50.01647278820235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.011534132273017,50.013325677808233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.016569740671372,50.010213999978447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.021675799178233,50.007150617672842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.026869558148896,50.004149361519985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.032167958692067,50.001225360063899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.037587432341901,49.998395361914795</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.043143537522926,49.995678029091579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.048850385751031,49.993094166314265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.054719821409776,49.990666823586558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.060760331851554,49.988421186230774</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.066975738037172,49.986384134526141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.073363069871426,49.98458224186124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.079897242491949,49.983014387947513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.086541369285232,49.981652051311066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.093265935878325,49.9804650646468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.100048284353409,49.979423725090129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.106871255991248,49.978499370826128</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.113721875670784,49.977664503703032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.120590179224219,49.976892614002978</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.127468191789109,49.976157816911844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.134349012945389,49.975434368216632</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.141225942981631,49.974696095880134</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.148090397798857,49.973911614087527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.154932842257313,49.973051179452156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.161757998835522,49.972135638641632</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.168572757159669,49.971188720489614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.175384159601478,49.970232158554033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.182199119248171,49.969286585349735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.189024195763498,49.968372306148268</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.195865365610196,49.967510004471222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.202727725174928,49.966721419853968</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.209615063195656,49.966030025057542</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.216529224302956,49.965461712289894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.223469164104483,49.965045468972562</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.230429575097727,49.964813972437646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.237398962078093,49.964803945040437</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.244357110902506,49.965055973950655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.251272109817066,49.965613324356724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.258097555290345,49.966519146149658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.264769907211726,49.967814200602447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.271127722878429,49.969648876845092</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.277086160573123,49.971978535865574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.282684441630884,49.974656106820213</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.287996448066913,49.977567360624072</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.293104770767226,49.980627182636361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.298090551548121,49.983770389612467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.303031601850268,49.986943122010537</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.308003859951111,49.990095687223707</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.313083729967211,49.993176140788393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.318349770962314,49.996123613248727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.323881740496365,49.998860625862754</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.32975318700835,50.00128478698575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.336011498484105,50.003263903790007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.342606714722589,50.004724240838065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.349325438588671,50.005933104781967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.356122603390627,50.006944278072211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.362980445090923,50.007768554195678</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.369885019069375,50.008411275551147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.376824400392064,50.008873283039819</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.383787396083157,50.009151369743009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.390762430359185,50.009238374445417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.397736401762149,50.009122981482825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.404693282163958,50.008789250848778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.411612210306124,50.008215889978715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.418464718175709,50.007375300433424</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.425210574466782,50.006232532904463</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.431791567648819,50.004744558517793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.438126478964527,50.002865812776825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.444169681160012,50.000622394315876</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.449927411877283,49.998085761465695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.455413415992254,49.995310023563384</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.460642110681064,49.992335056382281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.46562600050461,49.98919036557821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.470374532436452,49.985897868798581</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.474893533942737,49.982473831450925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.479184790617019,49.97893019283935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.483245507128363,49.975275458493584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.4870674338787,49.971515286873462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.490635401283019,49.967652851390802</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.493924824360779,49.963689047196446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.496862749520286,49.959612732641048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.499270614491707,49.955394488082575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.501179678449855,49.951071010267867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.502654683799879,49.946677132325334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.50376111639833,49.942238206097862</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.504561169758727,49.937771815828512</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.505112122820176,49.933289651221429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.505466209615516,49.92879913450146</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.505671295774651,49.924304697421306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.505771950971837,49.919808741674665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.505810712230591,49.915312362886311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.505829465014013,49.910815920279916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.505870949128607,49.906319545875078</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.505980445992517,49.901823669257929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.506173283097368,49.897328936743612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.506307784924875,49.892833328747933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.506361706278742,49.888337012648748</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.506335121283414,49.883840590966535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.506228146980238,49.879344664429489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.50604094298804,49.874849830939375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.50577371104097,49.870356684552803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.505426694407053,49.86586581448465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.505000177190606,49.86137780412848</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.504494483525519,49.856893230123887</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.503909976662019,49.852412661440432</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.503247057955178,49.847936658508239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.502506165760977,49.843465772388576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.501687774247198,49.839000543988817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.500792392126733,49.834541503325106</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

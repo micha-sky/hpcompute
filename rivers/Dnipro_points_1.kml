@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Dnipro_points_1" id="Dnipro_points_1">
+	<SimpleField name="Id" type="int"></SimpleField>
+</Schema>
+<Folder><name>Dnipro_points_1</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points_1">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.518027255217135,50.54603170571405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points_1">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.511148948026371,50.546966477244709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points_1">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.505057925385099,50.549187295896473</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points_1">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.500370841041647,50.552529647893437</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points_1">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.497025672222694,50.556476577844059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points_1">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.495350530884416,50.560826036879504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points_1">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.495538125145583,50.565307643121983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points_1">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.498192260455042,50.569401263712003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points_1">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.503486833610136,50.572363079135386</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points_1">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.508301323284854,50.575609790717124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points_1">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.510858971560996,50.579788550204881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points_1">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.511942373647262,50.584222483546434</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points_1">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.525070190431048,50.546108245814281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Dnipro_points_1">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.511844654451824,50.588106625673191</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
