@@ -2,17 +2,31 @@
   icloudcompute map
 
 = content_for :head do
-  %script{:type => 'text/javascript', :src  => 'https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyDZoaZwYV6PlRe0_z3kwhz6gSRn_pOg1oc'}
+  %script{:type => 'text/javascript', :src  => 'https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyCSLnY5ff15-602foDAAKK2G2AUwNqI5OA'}
 
   :javascript
     var city = new google.maps.LatLng(50.4484234,30.5216194);
     var zoom = 13;
+    var run_model_path = "#{main_execute_rivtox2_path}";
+    var get_points_path = "#{main_get_points_path}";
+    var main_results_path = "#{main_results_path}";
 
 
 %div.ui-panel
-  main panel
-  %button.ui-panel-button#run-rivtox
-    Run rivtox
+  %div.options-item
+    %div.ui-widget.field-content
+      %span.gds-select-header river:
+      %span.gds-select-content
+        %select{:name => 'river-select', :id => 'river-select', :class => 'form-control'}
+          %option{:value => 'styr', :selected => 'selected'}
+            Styr
+          %option{:value => 'goryn'}
+            Goryn
+          %option{:value => 'south_bug'}
+            South Bug
+      .clear
+  %button.btn.btn-large#run-model
+    Run model
 
 %div.content
   %div#map-canvas

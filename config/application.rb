@@ -19,8 +19,29 @@ module Compute
     # The default locale is :en and all translations from config/locales/*.rb,yml are auto loaded.
     # config.i18n.load_path += Dir[Rails.root.join('my', 'locales', '*.{rb,yml}').to_s]
     # config.i18n.default_locale = :de
+    config.sass.preferred_syntax = :sass
+    config.autoload_paths += %W(#{config.root}/lib)
+
     config.assets.paths << "#{Rails.root}/app/assets/videos"
     # Do not swallow errors in after_commit/after_rollback callbacks.
     config.active_record.raise_in_transactional_callbacks = true
+  end
+end
+
+module Rake
+  class Task
+    alias_method :origin_invoke, :invoke if method_defined?(:invoke)
+    def invoke(*args)
+      puts "#{Time.now} STARTED rake task -- #{name} -- #{args.inspect}"
+      begin
+        result = origin_invoke(*args)
+        puts "#{Time.now} ENDED rake task -- #{name}"
+        result
+      rescue
+        puts $!, $@
+        puts "#{Time.now} !!! FAILED rake task -- #{name}"
+        raise
+      end
+    end
   end
 end

@@ -1,10 +1,10 @@
 Rails.application.routes.draw do
   root 'main#index'
   get 'main/execute' => 'main#execute'
-  get 'main/execute/rivtox' => 'main#executeRivtox'
   get 'main/execute/rivtox2' => 'main#executeRivtox2'
-  get 'main/results' => 'main#read_outlocs'
+  get 'main/results' => 'main#get_results'
   get 'main/map' => 'main#map'
+  get 'main/get_points' => 'main#get_points'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

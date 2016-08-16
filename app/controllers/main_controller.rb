@@ -1,11 +1,17 @@
 class MainController < ApplicationController
-  require 'csv'
   def index
 
   end
 
   def map
 
+  end
+
+  def get_points
+    river = params[:river]
+    points = RiverPoint.where(:river => river)
+
+    render :json => points.to_json
   end
 
 
@@ -24,23 +30,16 @@ class MainController < ApplicationController
     render :text => command.to_s
   end
 
-  def read_outlocs
+  def get_results
+    river=params[:river]
+    branch=params[:branch]
+    point=params[:point]
+
     filename = 'outlocs/outloc.0001'
 
-    CSV.foreach(filename, { :headers => true, :col_sep => "\t", :skip_blanks => true }) do |row|
-      puts row
-    end
+    result = Parser.read_outlocs(filename, river, branch, point)
 
-    render :text => File.read(filename)
+    render :json => result.to_json
 
   end
-
-  private
-  def cache_results
-    if File.exists?('pcolour.png')
-      true
-    end
-  end
-
-
 end
