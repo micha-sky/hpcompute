@@ -5522,7 +5522,7 @@ constant,0.25,mm/h,0.,min,80,min,1,41,1,72,
 
 ~Output Control                                      
 0,
-extraction_points.xy,24.0,h,
+extraction_points_south_bug.xy,24.0,h,
 0 line(s) of output control input follows.
 1,1,5,30,9,47,11,2,10,10000,   
                         

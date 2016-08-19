@@ -3,7 +3,9 @@ do (main = (window.main = window.main || {}), $ = jQuery) ->
   _markers = []
   _loading = null
   _timeout = 500
-  _river = null;
+  _river = null
+  _output_path = null
+  _selected_point = {}
 
   initialize = () ->
     mapOptions =
@@ -12,7 +14,6 @@ do (main = (window.main = window.main || {}), $ = jQuery) ->
     _map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions)
 
     $('#river-select').val('styr')
-#    $('#river-select').selectmenu('refresh')
 
     return
 
@@ -37,17 +38,26 @@ do (main = (window.main = window.main || {}), $ = jQuery) ->
             position: latLng,
             map: _map,
             icon: 'http://www.vitromolecularlaboratories.com/wp-content/themes/mercury/images/slider-dot.png'
+            branch: point.branch,
+            point: point.point,
+            river: point.river
           )
+          infowindow = buildInfoWindow(point)
+          marker.infoWindow = infowindow
+
+
           marker.addListener 'click', () ->
-            infowindow = buildInfoWindow(point)
+            _selected_point.point = marker.point
+            _selected_point.branch = marker.branch
+            _selected_point.river = marker.river
+
             infowindow.open(_map, this)
           _markers.push(marker)
           setMapCenterAndZoom()
-          console.log(point.point)
       error: (data) ->
         console.log(data)
 
-  getResults = (river, branch, point) ->
+  getResults = (river, branch, point, path) ->
     $.ajax
       type: 'get'
       url: 'get_results'
@@ -55,6 +65,7 @@ do (main = (window.main = window.main || {}), $ = jQuery) ->
         river: river
         branch: branch
         point: point
+        path: path
       success: (data) ->
         console.log(data)
       error: (error) ->
@@ -67,9 +78,12 @@ do (main = (window.main = window.main || {}), $ = jQuery) ->
     false
 
   buildInfoWindow = (point) ->
-    contentString = '<div><b>River: ' + point.river +
+    contentString = '<div><b>River: ' + capitaliseFirstLetter(point.river) +
     '</b></div>' + '<div><b>Branch: ' + point.branch +
-    '</b></div>' + '<div><b>Point: ' + point.point + '</div>'
+    '</b></div>' + '<div><b>Point: ' + point.point + '</div>' +
+    '</b></div>' + '<div class="get-results-button"><span class="btn btn-success">Get results</span></div>'
+
+
 
     infoWindow = new google.maps.InfoWindow(content: contentString)
 
@@ -94,9 +108,11 @@ do (main = (window.main = window.main || {}), $ = jQuery) ->
       bounds.extend(marker.position)
     bounds
 
+
+
   $('#run-model').click ()->
     river = $('#river-select').val()
-    showRiverPoints(river)
+    runModel(river)
 
   runModel = (river) ->
     $.ajax
@@ -109,6 +125,7 @@ do (main = (window.main = window.main || {}), $ = jQuery) ->
       complete: () ->
         stopLoading()
       success: (data) ->
+        _output_path = data
         console.log(data)
       error: (error) ->
         console.log(error)
@@ -138,6 +155,18 @@ do (main = (window.main = window.main || {}), $ = jQuery) ->
     for marker in _markers
       bounds.extend(marker.position)
     bounds
+
+
+
+  clearAllMarkersZIndex = () ->
+    for marker in _markers
+      marker.infoWindow.setZIndex(1)
+      marker.setZIndex(2)
+    return
+
+
+  capitaliseFirstLetter = (text) ->
+    text.charAt(0).toUpperCase() + text.slice(1);
 
   searchPlacesText = (query, latLng, radius) ->
     request =
