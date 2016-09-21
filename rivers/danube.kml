@@ -1,0 +1,3053 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="danube" id="danube">
+	<SimpleField name="Chainage" type="float"></SimpleField>
+	<SimpleField name="Branch" type="int"></SimpleField>
+	<SimpleField name="Point" type="int"></SimpleField>
+</Schema>
+<Folder><name>danube</name>
+  <Placemark>
+	<name>Danube_Tulcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">0.000000000000000</SimpleData>
+		<SimpleData name="Branch">26</SimpleData>
+		<SimpleData name="Point">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.743101361900905,45.230483018701044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Tulcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">3007.010039961814527</SimpleData>
+		<SimpleData name="Branch">26</SimpleData>
+		<SimpleData name="Point">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.769999638259794,45.215133708617614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Tulcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">6014.020079923629055</SimpleData>
+		<SimpleData name="Branch">26</SimpleData>
+		<SimpleData name="Point">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.794779819048966,45.202135748257227</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Tulcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">9021.030119885443128</SimpleData>
+		<SimpleData name="Branch">26</SimpleData>
+		<SimpleData name="Point">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.804473735152019,45.180712223768644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Tulcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">12028.040159847258110</SimpleData>
+		<SimpleData name="Branch">26</SimpleData>
+		<SimpleData name="Point">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.826243655175848,45.199701691163476</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Tulcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">15035.050199809073092</SimpleData>
+		<SimpleData name="Branch">26</SimpleData>
+		<SimpleData name="Point">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.863243855122573,45.200181685220407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Tulcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">18042.060239770886255</SimpleData>
+		<SimpleData name="Branch">26</SimpleData>
+		<SimpleData name="Point">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.89545055469296,45.185967653962365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">0.000000000000000</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.743101361900905,45.230483018701044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">3014.397180741470493</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.779806868810155,45.236540760292414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">6028.794361482940985</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.78528525973439,45.254703828086591</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">9043.191542224411023</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.757037448298462,45.272332166926645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">12057.588722965881971</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.771551313292115,45.290805567360671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">15071.985903707352918</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.80297185549658,45.300916767875286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">18086.383084448822046</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.788264284724814,45.319969661596645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">21100.780265190292994</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.811205177029045,45.337811391496764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">24115.177445931763941</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.838233223438557,45.321134528485615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">27129.574626673234889</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.875269853224751,45.316029480310711</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">30143.971807414705836</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.90276109847381,45.297244033243771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">33158.368988156173145</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.932551384418527,45.280670829005722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">36172.766168897644093</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.957378639174472,45.294498695312939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">39187.163349639115040</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.956567286622089,45.319054447989167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">42201.560530380585988</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.982666221522852,45.331321223305025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">45215.957711122056935</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.014338665906408,45.345724372887247</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">48230.354891863527882</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.042881322590226,45.361885769367206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">51244.752072604998830</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.071459349667673,45.379914168154414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">54259.149253346469777</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.106470438860313,45.387770165281793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">57273.546434087940725</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.14187444782063,45.385696794212592</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">60287.943614829411672</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.176662849147316,45.397235436195182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">63302.340795570882619</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.201368689878944,45.416365489941413</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">66316.737976312346291</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.235472982137733,45.427843680162482</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">69331.135157053824514</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.268579925482651,45.431559578860124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">72345.532337795288186</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.303732305752181,45.431335227639849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">75359.929518536766409</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">26</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.331905907660595,45.448897530157389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">78374.326699278230080</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">27</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.365382385497757,45.436942071957738</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">81388.723880019708304</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.403324726713702,45.438884716180361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">84403.121060761171975</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">29</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.439327702021103,45.439344730456014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">87417.518241502650199</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.470481344100126,45.425900466498483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">90431.915422244113870</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.507663635383107,45.420039840813949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">93446.312602985592093</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">32</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.544509877967048,45.412249472106069</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">96460.709783727055765</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">33</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.577316200893147,45.398459657514223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">99475.106964468519436</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">34</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.607087165311654,45.381558157961472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">102489.504145209997660</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">35</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.629953194688138,45.359774834444224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">105503.901325951461331</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">36</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.657086805735474,45.340610148697479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">108518.298506692939554</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">37</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.670399039090047,45.315368881366595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">111532.695687434403226</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">38</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.676743896349546,45.289081633477352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">114547.092868175881449</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">39</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.685975195438441,45.263098333562198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">117561.490048917345121</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">40</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.711535148805499,45.243026984043951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chilia</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">120575.887229658823344</SimpleData>
+		<SimpleData name="Branch">29</SimpleData>
+		<SimpleData name="Point">41</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.73735307786324,45.223386480340416</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">0.000000000000000</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.89545055469296,45.185967653962365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">3060.735356627227702</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.909256349050377,45.160370293215891</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">6121.470713254455404</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.942274722276846,45.150668973826058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">9182.206069881682197</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.977441973417491,45.139004931156634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">12242.941426508910808</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.011237144860349,45.127480535060201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">15303.676783136139420</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.048429441998888,45.119513283050125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">18364.412139763364394</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.076187889847734,45.101847257934203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">21425.147496390593005</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.107516296926136,45.085751322010225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">24485.882853017821617</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.139662126912942,45.071854265536977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">27546.618209645050229</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.167576502744399,45.089883059466871</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">30607.353566272278840</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.133890650625634,45.09242494893298</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">33668.088922899507452</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.15474009414061,45.108651734916243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">36728.824279526728787</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.193018497017533,45.105492481336327</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">39789.559636153957399</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.219291331255853,45.085917329822699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">42850.294992781186011</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.21370505349071,45.064087887873022</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">45911.030349408414622</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.193904119366866,45.046841909162005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">48971.765706035643234</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.23100353906424,45.039981982826333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">52032.501062662871846</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.26957017033758,45.038389880352234</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">55093.236419290100457</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.278044872940143,45.020967231458911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">58153.971775917329069</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.302031485095572,45.015311382805365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">61214.707132544557680</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.307730556878504,44.996034730939762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">64275.442489171779016</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.317848480944392,44.972939737802257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">67336.177845799014904</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.346542601863064,44.982280518662812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">70396.913202426236239</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.353385554853755,44.962754064345837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">73457.648559053457575</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.374359891087781,44.976381027701336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">76518.383915680693462</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">26</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.391437367293769,44.974050768802847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">79579.119272307914798</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">27</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.374779261532243,44.950051719678605</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">82639.854628935150686</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.408534607695223,44.949983854719463</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">85700.589985562372021</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">29</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.429625238261675,44.972933315834673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">88761.325342189607909</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.465897810068398,44.970977205299427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">91822.060698816829245</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.47280158374679,44.956103694328377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">94882.796055444065132</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">32</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.505920162859852,44.94998344392787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">97943.531412071286468</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">33</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.539610748466515,44.937227450979989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">101004.266768698507803</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">34</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.563288354125405,44.915426394721848</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">104065.002125325743691</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">35</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.586824355629066,44.893920207388462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sf. Gheorghe</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">107125.737481952965027</SimpleData>
+		<SimpleData name="Branch">27</SimpleData>
+		<SimpleData name="Point">36</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.618642278606647,44.879868822629192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sulina</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">0.000000000000000</SimpleData>
+		<SimpleData name="Branch">28</SimpleData>
+		<SimpleData name="Point">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.89545055469296,45.185967653962365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sulina</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">3126.860058524279339</SimpleData>
+		<SimpleData name="Branch">28</SimpleData>
+		<SimpleData name="Point">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.934754211480996,45.190218656967829</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sulina</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">6253.720117048558677</SimpleData>
+		<SimpleData name="Branch">28</SimpleData>
+		<SimpleData name="Point">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.974082513925826,45.193353986951522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sulina</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">9380.580175572838925</SimpleData>
+		<SimpleData name="Branch">28</SimpleData>
+		<SimpleData name="Point">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.00337000935372,45.174921529537478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sulina</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">12507.440234097117354</SimpleData>
+		<SimpleData name="Branch">28</SimpleData>
+		<SimpleData name="Point">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.041962087826967,45.171692967633113</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sulina</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">15634.300292621395783</SimpleData>
+		<SimpleData name="Branch">28</SimpleData>
+		<SimpleData name="Point">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.081368862596651,45.175478167202904</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sulina</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">18761.160351145677851</SimpleData>
+		<SimpleData name="Branch">28</SimpleData>
+		<SimpleData name="Point">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.120975474188263,45.174342260108517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sulina</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">21888.020409669956280</SimpleData>
+		<SimpleData name="Branch">28</SimpleData>
+		<SimpleData name="Point">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.1583815106119,45.179015605065274</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sulina</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">25014.880468194234709</SimpleData>
+		<SimpleData name="Branch">28</SimpleData>
+		<SimpleData name="Point">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.196989880293053,45.184201905054394</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sulina</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">28141.740526718513138</SimpleData>
+		<SimpleData name="Branch">28</SimpleData>
+		<SimpleData name="Point">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.235320161919493,45.177718184185572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sulina</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">31268.600585242791567</SimpleData>
+		<SimpleData name="Branch">28</SimpleData>
+		<SimpleData name="Point">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.274680714509355,45.177882186571871</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sulina</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">34395.460643767073634</SimpleData>
+		<SimpleData name="Branch">28</SimpleData>
+		<SimpleData name="Point">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.314328112794108,45.175607721055776</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sulina</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">37522.320702291355701</SimpleData>
+		<SimpleData name="Branch">28</SimpleData>
+		<SimpleData name="Point">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.354034306569044,45.17638036540226</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sulina</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">40649.180760815630492</SimpleData>
+		<SimpleData name="Branch">28</SimpleData>
+		<SimpleData name="Point">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.393793314804356,45.175677888394304</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sulina</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">43776.040819339912559</SimpleData>
+		<SimpleData name="Branch">28</SimpleData>
+		<SimpleData name="Point">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.432070494751912,45.174310302313579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sulina</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">46902.900877864187350</SimpleData>
+		<SimpleData name="Branch">28</SimpleData>
+		<SimpleData name="Point">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.471828357939192,45.173516270372204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sulina</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">50029.760936388469418</SimpleData>
+		<SimpleData name="Branch">28</SimpleData>
+		<SimpleData name="Point">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.511502071759615,45.17221766640855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sulina</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">53156.620994912751485</SimpleData>
+		<SimpleData name="Branch">28</SimpleData>
+		<SimpleData name="Point">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.543742092247854,45.185830431908059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sulina</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">56283.481053437026276</SimpleData>
+		<SimpleData name="Branch">28</SimpleData>
+		<SimpleData name="Point">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.577846418377966,45.172128500235772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sulina</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">59410.341111961308343</SimpleData>
+		<SimpleData name="Branch">28</SimpleData>
+		<SimpleData name="Point">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.6137316171178,45.160296467395298</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sulina</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">62537.201170485583134</SimpleData>
+		<SimpleData name="Branch">28</SimpleData>
+		<SimpleData name="Point">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.653029525209032,45.157013295640255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sulina</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">65664.061229009865201</SimpleData>
+		<SimpleData name="Branch">28</SimpleData>
+		<SimpleData name="Point">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.690841245427873,45.163381626354749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">0.000000000000000</SimpleData>
+		<SimpleData name="Branch">18</SimpleData>
+		<SimpleData name="Point">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.884078941199331,44.765139784163864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">1940.307714760157069</SimpleData>
+		<SimpleData name="Branch">18</SimpleData>
+		<SimpleData name="Point">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.904395685139676,44.774878187848117</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">0.000000000000000</SimpleData>
+		<SimpleData name="Branch">3</SimpleData>
+		<SimpleData name="Point">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.315714380065849,44.13958014522688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">3201.893046642176159</SimpleData>
+		<SimpleData name="Branch">3</SimpleData>
+		<SimpleData name="Point">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.353487780073927,44.130093442916397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">6403.786093284352319</SimpleData>
+		<SimpleData name="Branch">3</SimpleData>
+		<SimpleData name="Point">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.392919298644113,44.132228003912701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">9605.679139926527569</SimpleData>
+		<SimpleData name="Branch">3</SimpleData>
+		<SimpleData name="Point">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.4308512230897,44.124833461385606</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">12807.572186568704637</SimpleData>
+		<SimpleData name="Branch">3</SimpleData>
+		<SimpleData name="Point">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.466737395815109,44.131419166815782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">16009.465233210881706</SimpleData>
+		<SimpleData name="Branch">3</SimpleData>
+		<SimpleData name="Point">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.495873262337792,44.150485897272404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">19211.358279853055137</SimpleData>
+		<SimpleData name="Branch">3</SimpleData>
+		<SimpleData name="Point">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.526772902497651,44.168553172043559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">22413.251326495232206</SimpleData>
+		<SimpleData name="Branch">3</SimpleData>
+		<SimpleData name="Point">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.560923120745574,44.183046543084821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">0.000000000000000</SimpleData>
+		<SimpleData name="Branch">19</SimpleData>
+		<SimpleData name="Point">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.884078941199331,44.765139784163864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">1065.020800666689411</SimpleData>
+		<SimpleData name="Branch">19</SimpleData>
+		<SimpleData name="Point">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.875397064251654,44.772401888137956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">2130.041601333378821</SimpleData>
+		<SimpleData name="Branch">19</SimpleData>
+		<SimpleData name="Point">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.863397063047959,44.776586129472477</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">3195.062402000068232</SimpleData>
+		<SimpleData name="Branch">19</SimpleData>
+		<SimpleData name="Point">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.850293029317378,44.778692395450207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">4260.083202666757643</SimpleData>
+		<SimpleData name="Branch">19</SimpleData>
+		<SimpleData name="Point">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.83696311740951,44.779962891838323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">5325.104003333446599</SimpleData>
+		<SimpleData name="Branch">19</SimpleData>
+		<SimpleData name="Point">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.826505379604804,44.785686661191924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">6390.124804000136464</SimpleData>
+		<SimpleData name="Branch">19</SimpleData>
+		<SimpleData name="Point">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.822345468415893,44.794659535663996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">7455.145604666826330</SimpleData>
+		<SimpleData name="Branch">19</SimpleData>
+		<SimpleData name="Point">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.824116870694713,44.804123946062525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">8520.166405333515286</SimpleData>
+		<SimpleData name="Branch">19</SimpleData>
+		<SimpleData name="Point">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.828169488747616,44.813255491945739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">9585.187206000204242</SimpleData>
+		<SimpleData name="Branch">19</SimpleData>
+		<SimpleData name="Point">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.829721698071168,44.822760165152104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">10650.208006666893198</SimpleData>
+		<SimpleData name="Branch">19</SimpleData>
+		<SimpleData name="Point">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.83304740178141,44.831962305553411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">0.000000000000000</SimpleData>
+		<SimpleData name="Branch">16</SimpleData>
+		<SimpleData name="Point">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.871940408713318,44.737978109148848</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">1061.369449489644467</SimpleData>
+		<SimpleData name="Branch">16</SimpleData>
+		<SimpleData name="Point">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.877011229914068,44.746822481361548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">2122.738898979288933</SimpleData>
+		<SimpleData name="Branch">16</SimpleData>
+		<SimpleData name="Point">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.8817657267209,44.755749200779604</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">3184.108348468933400</SimpleData>
+		<SimpleData name="Branch">16</SimpleData>
+		<SimpleData name="Point">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.884078941200652,44.765139784162287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">0.000000000000000</SimpleData>
+		<SimpleData name="Branch">1</SimpleData>
+		<SimpleData name="Point">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.272248967248441,44.127710989641436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">1304.644089278980800</SimpleData>
+		<SimpleData name="Branch">1</SimpleData>
+		<SimpleData name="Point">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.285379382994968,44.133959154355303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">2609.288178557961601</SimpleData>
+		<SimpleData name="Branch">1</SimpleData>
+		<SimpleData name="Point">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.299656944842884,44.139474237391333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">3913.932267836942628</SimpleData>
+		<SimpleData name="Branch">1</SimpleData>
+		<SimpleData name="Point">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.315714380065849,44.13958014522688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">0.000000000000000</SimpleData>
+		<SimpleData name="Branch">2</SimpleData>
+		<SimpleData name="Point">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.315714380065849,44.13958014522688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">3278.259026440931393</SimpleData>
+		<SimpleData name="Branch">2</SimpleData>
+		<SimpleData name="Point">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.322603723382745,44.167975302301386</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">6556.518052881862786</SimpleData>
+		<SimpleData name="Branch">2</SimpleData>
+		<SimpleData name="Point">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.341952550492721,44.183846604340388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">9834.777079322793725</SimpleData>
+		<SimpleData name="Branch">2</SimpleData>
+		<SimpleData name="Point">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.380254599726328,44.176524299656855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">13113.036105763725573</SimpleData>
+		<SimpleData name="Branch">2</SimpleData>
+		<SimpleData name="Point">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.405408137260849,44.198137370869574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">16391.295132204657421</SimpleData>
+		<SimpleData name="Branch">2</SimpleData>
+		<SimpleData name="Point">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.444939247350138,44.200942193719172</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">19669.554158645587449</SimpleData>
+		<SimpleData name="Branch">2</SimpleData>
+		<SimpleData name="Point">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.480192668056464,44.215132250125677</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">22947.813185086521116</SimpleData>
+		<SimpleData name="Branch">2</SimpleData>
+		<SimpleData name="Point">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.517294831215295,44.225937314872176</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">26226.072211527451145</SimpleData>
+		<SimpleData name="Branch">2</SimpleData>
+		<SimpleData name="Point">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.554968460630054,44.228838934071312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">29504.331237968381174</SimpleData>
+		<SimpleData name="Branch">2</SimpleData>
+		<SimpleData name="Point">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.586056586520371,44.247871573908661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">32782.590264409314841</SimpleData>
+		<SimpleData name="Branch">2</SimpleData>
+		<SimpleData name="Point">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.625693890179107,44.254695007053023</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">0.000000000000000</SimpleData>
+		<SimpleData name="Branch">8</SimpleData>
+		<SimpleData name="Point">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.77361231665207,44.223902634569896</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">3186.219761807819395</SimpleData>
+		<SimpleData name="Branch">8</SimpleData>
+		<SimpleData name="Point">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.805440148043562,44.240264357754306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">6372.439523615638791</SimpleData>
+		<SimpleData name="Branch">8</SimpleData>
+		<SimpleData name="Point">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.837241407790174,44.252947933764183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">9558.659285423458641</SimpleData>
+		<SimpleData name="Branch">8</SimpleData>
+		<SimpleData name="Point">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.872176413908033,44.253276638223603</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">12744.879047231277582</SimpleData>
+		<SimpleData name="Branch">8</SimpleData>
+		<SimpleData name="Point">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.910735045040653,44.246989084366078</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">15931.098809039096523</SimpleData>
+		<SimpleData name="Branch">8</SimpleData>
+		<SimpleData name="Point">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.94817327460979,44.254757976124644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">19117.318570846917282</SimpleData>
+		<SimpleData name="Branch">8</SimpleData>
+		<SimpleData name="Point">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.971450013548168,44.277681238051194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">22303.538332654734404</SimpleData>
+		<SimpleData name="Branch">8</SimpleData>
+		<SimpleData name="Point">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.993863933913321,44.301051822427375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">25489.758094462555164</SimpleData>
+		<SimpleData name="Branch">8</SimpleData>
+		<SimpleData name="Point">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.009072088794461,44.3269619297022</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">28675.977856270375923</SimpleData>
+		<SimpleData name="Branch">8</SimpleData>
+		<SimpleData name="Point">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.021144211379944,44.354275429685529</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea _Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">0.000000000000000</SimpleData>
+		<SimpleData name="Branch">10</SimpleData>
+		<SimpleData name="Point">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.021144211379944,44.354275429685529</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea _Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">3067.158325602786590</SimpleData>
+		<SimpleData name="Branch">10</SimpleData>
+		<SimpleData name="Point">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.040495227073581,44.378078123487718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea _Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">6134.316651205573180</SimpleData>
+		<SimpleData name="Branch">10</SimpleData>
+		<SimpleData name="Point">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.064337096226261,44.399112277529674</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea _Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">9201.474976808360225</SimpleData>
+		<SimpleData name="Branch">10</SimpleData>
+		<SimpleData name="Point">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.087471933750262,44.41870593292726</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea _Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">12268.633302411146360</SimpleData>
+		<SimpleData name="Branch">10</SimpleData>
+		<SimpleData name="Point">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.112536317063679,44.437730909121704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">0.000000000000000</SimpleData>
+		<SimpleData name="Branch">17</SimpleData>
+		<SimpleData name="Point">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.910368225980982,44.698657928935731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">1153.802895680684742</SimpleData>
+		<SimpleData name="Branch">17</SimpleData>
+		<SimpleData name="Point">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.897068548174055,44.70278398410705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">2307.605791361369484</SimpleData>
+		<SimpleData name="Branch">17</SimpleData>
+		<SimpleData name="Point">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.88594346729392,44.709444662593597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">3461.408687042054225</SimpleData>
+		<SimpleData name="Branch">17</SimpleData>
+		<SimpleData name="Point">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.87713490324262,44.717594722348622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">4615.211582722738967</SimpleData>
+		<SimpleData name="Branch">17</SimpleData>
+		<SimpleData name="Point">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.873718452113362,44.72767277957022</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">5769.014478403423709</SimpleData>
+		<SimpleData name="Branch">17</SimpleData>
+		<SimpleData name="Point">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.871940408713321,44.737978109148855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">0.000000000000000</SimpleData>
+		<SimpleData name="Branch">15</SimpleData>
+		<SimpleData name="Point">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.86285727498128,44.701807185631068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">1066.126145993862792</SimpleData>
+		<SimpleData name="Branch">15</SimpleData>
+		<SimpleData name="Point">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.860640657549776,44.711245438795096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">2132.252291987725584</SimpleData>
+		<SimpleData name="Branch">15</SimpleData>
+		<SimpleData name="Point">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.860436176130765,44.720820817348418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">3198.378437981588377</SimpleData>
+		<SimpleData name="Branch">15</SimpleData>
+		<SimpleData name="Point">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.864920949119941,44.729797731032967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">4264.504583975451169</SimpleData>
+		<SimpleData name="Branch">15</SimpleData>
+		<SimpleData name="Point">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.871940408713321,44.737978109148855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">0.000000000000000</SimpleData>
+		<SimpleData name="Branch">22</SimpleData>
+		<SimpleData name="Point">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.83304740178141,44.831962305553411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">3323.105601095406200</SimpleData>
+		<SimpleData name="Branch">22</SimpleData>
+		<SimpleData name="Point">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.840657067042876,44.860787924975092</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">6646.211202190812401</SimpleData>
+		<SimpleData name="Branch">22</SimpleData>
+		<SimpleData name="Point">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.861602509300599,44.88283664244922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">9969.316803286219510</SimpleData>
+		<SimpleData name="Branch">22</SimpleData>
+		<SimpleData name="Point">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.889957717411654,44.903005799415958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">13292.422404381624801</SimpleData>
+		<SimpleData name="Branch">22</SimpleData>
+		<SimpleData name="Point">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.902472372557252,44.931268550223727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">16615.528005477030092</SimpleData>
+		<SimpleData name="Branch">22</SimpleData>
+		<SimpleData name="Point">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.906331984322595,44.96061237893641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">19938.633606572439021</SimpleData>
+		<SimpleData name="Branch">22</SimpleData>
+		<SimpleData name="Point">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.906714630562313,44.990110732549745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">23261.739207667844312</SimpleData>
+		<SimpleData name="Branch">22</SimpleData>
+		<SimpleData name="Point">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.8844371016819,45.012956388119356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">26584.844808763249603</SimpleData>
+		<SimpleData name="Branch">22</SimpleData>
+		<SimpleData name="Point">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.90366889136109,45.036826239229718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">29907.950409858654893</SimpleData>
+		<SimpleData name="Branch">22</SimpleData>
+		<SimpleData name="Point">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.907177594815717,45.0663342699401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">0.000000000000000</SimpleData>
+		<SimpleData name="Branch">12</SimpleData>
+		<SimpleData name="Point">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.112536320335977,44.437730902784878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">3101.080196439119845</SimpleData>
+		<SimpleData name="Branch">12</SimpleData>
+		<SimpleData name="Point">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.099083260129817,44.463365045394461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">6202.160392878239691</SimpleData>
+		<SimpleData name="Branch">12</SimpleData>
+		<SimpleData name="Point">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.090957476198007,44.490548916811022</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">9303.240589317359991</SimpleData>
+		<SimpleData name="Branch">12</SimpleData>
+		<SimpleData name="Point">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.061851484753092,44.507897577266576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">12404.320785756479381</SimpleData>
+		<SimpleData name="Branch">12</SimpleData>
+		<SimpleData name="Point">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.042304818106274,44.530288593523544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">15505.400982195598772</SimpleData>
+		<SimpleData name="Branch">12</SimpleData>
+		<SimpleData name="Point">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.028654599374867,44.55569162362233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">18606.481178634719981</SimpleData>
+		<SimpleData name="Branch">12</SimpleData>
+		<SimpleData name="Point">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.019825253274455,44.581812498038651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">21707.561375073837553</SimpleData>
+		<SimpleData name="Branch">12</SimpleData>
+		<SimpleData name="Point">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.031873776928414,44.608193466259358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">24808.641571512958762</SimpleData>
+		<SimpleData name="Branch">12</SimpleData>
+		<SimpleData name="Point">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.027105711020297,44.635029066705222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">27909.721767952079972</SimpleData>
+		<SimpleData name="Branch">12</SimpleData>
+		<SimpleData name="Point">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.99906963645126,44.653830052424134</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">31010.801964391197544</SimpleData>
+		<SimpleData name="Branch">12</SimpleData>
+		<SimpleData name="Point">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.975010129776063,44.675789984935513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">34111.882160830318753</SimpleData>
+		<SimpleData name="Branch">12</SimpleData>
+		<SimpleData name="Point">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.939000143698724,44.680363867385665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">37212.962357269439963</SimpleData>
+		<SimpleData name="Branch">12</SimpleData>
+		<SimpleData name="Point">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.910368225980982,44.698657928935731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bala</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">0.000000000000000</SimpleData>
+		<SimpleData name="Branch">4</SimpleData>
+		<SimpleData name="Point">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.625693890179107,44.254695007053023</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bala</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">3948.449200212653523</SimpleData>
+		<SimpleData name="Branch">4</SimpleData>
+		<SimpleData name="Point">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.591612599573743,44.235539462408333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bala</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">7896.898400425307045</SimpleData>
+		<SimpleData name="Branch">4</SimpleData>
+		<SimpleData name="Point">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.586676451502903,44.21203886761915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bala</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">11845.347600637960568</SimpleData>
+		<SimpleData name="Branch">4</SimpleData>
+		<SimpleData name="Point">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.560923120745574,44.183046543084821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Valciu</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">0.000000000000000</SimpleData>
+		<SimpleData name="Branch">21</SimpleData>
+		<SimpleData name="Point">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.904407211437519,44.774881998036101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Valciu</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">3168.925980911280476</SimpleData>
+		<SimpleData name="Branch">21</SimpleData>
+		<SimpleData name="Point">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.908080920026858,44.801727785372243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Valciu</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">6337.851961822560952</SimpleData>
+		<SimpleData name="Branch">21</SimpleData>
+		<SimpleData name="Point">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.93653376279282,44.81485210112151</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Valciu</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">9506.777942733840973</SimpleData>
+		<SimpleData name="Branch">21</SimpleData>
+		<SimpleData name="Point">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.9582220694342,44.832693046766849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Valciu</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">12675.703923645121904</SimpleData>
+		<SimpleData name="Branch">21</SimpleData>
+		<SimpleData name="Point">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.971890825109703,44.854645829583731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Valciu</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">15844.629904556402835</SimpleData>
+		<SimpleData name="Branch">21</SimpleData>
+		<SimpleData name="Point">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.968591642409471,44.883036911843007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Valciu</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">19013.555885467681946</SimpleData>
+		<SimpleData name="Branch">21</SimpleData>
+		<SimpleData name="Point">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.9743189170532,44.911135961568107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Valciu</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">22182.481866378962877</SimpleData>
+		<SimpleData name="Branch">21</SimpleData>
+		<SimpleData name="Point">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.970172274476042,44.935398619163983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Valciu</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">25351.407847290243808</SimpleData>
+		<SimpleData name="Branch">21</SimpleData>
+		<SimpleData name="Point">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.959411751387069,44.961832328043911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Valciu</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">28520.333828201524739</SimpleData>
+		<SimpleData name="Branch">21</SimpleData>
+		<SimpleData name="Point">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.959365240697668,44.990288097377388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Valciu</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">31689.259809112805669</SimpleData>
+		<SimpleData name="Branch">21</SimpleData>
+		<SimpleData name="Point">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.945770227111101,45.016585530593105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Valciu</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">34858.185790024086600</SimpleData>
+		<SimpleData name="Branch">21</SimpleData>
+		<SimpleData name="Point">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.926331535862158,45.041511591658477</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Valciu</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">38027.111770935363893</SimpleData>
+		<SimpleData name="Branch">21</SimpleData>
+		<SimpleData name="Point">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.907177594815717,45.0663342699401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canal</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">0.000000000000000</SimpleData>
+		<SimpleData name="Branch">9</SimpleData>
+		<SimpleData name="Point">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.020472515965601,44.353055327822005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canal</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">3080.982081233389181</SimpleData>
+		<SimpleData name="Branch">9</SimpleData>
+		<SimpleData name="Point">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.038229844220162,44.328421910508972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canal</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">6161.964162466778362</SimpleData>
+		<SimpleData name="Branch">9</SimpleData>
+		<SimpleData name="Point">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.057024691171382,44.304191371563007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canal</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">9242.946243700167543</SimpleData>
+		<SimpleData name="Branch">9</SimpleData>
+		<SimpleData name="Point">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.079896879630478,44.281925071124341</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canal</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">12323.928324933556723</SimpleData>
+		<SimpleData name="Branch">9</SimpleData>
+		<SimpleData name="Point">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.113971651219206,44.270803374776101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canal</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">15404.910406166945904</SimpleData>
+		<SimpleData name="Branch">9</SimpleData>
+		<SimpleData name="Point">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.151807616078013,44.265377417158618</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canal</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">18485.892487400335085</SimpleData>
+		<SimpleData name="Branch">9</SimpleData>
+		<SimpleData name="Point">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.190194056023078,44.262579758607941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canal</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">21566.874568633724266</SimpleData>
+		<SimpleData name="Branch">9</SimpleData>
+		<SimpleData name="Point">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.228214785954524,44.257892520338395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canal</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">24647.856649867113447</SimpleData>
+		<SimpleData name="Branch">9</SimpleData>
+		<SimpleData name="Point">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.265644681931498,44.251209195247924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canal</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">27728.838731100502628</SimpleData>
+		<SimpleData name="Branch">9</SimpleData>
+		<SimpleData name="Point">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.304096770099989,44.250864255130594</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canal</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">30809.820812333891809</SimpleData>
+		<SimpleData name="Branch">9</SimpleData>
+		<SimpleData name="Point">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.342391294769296,44.25110781796959</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canal</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">33890.802893567277351</SimpleData>
+		<SimpleData name="Branch">9</SimpleData>
+		<SimpleData name="Point">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.370791331986215,44.232958805976722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canal</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">36971.784974800670170</SimpleData>
+		<SimpleData name="Branch">9</SimpleData>
+		<SimpleData name="Point">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.389996001875229,44.209120278894318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canal</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">40052.767056034062989</SimpleData>
+		<SimpleData name="Branch">9</SimpleData>
+		<SimpleData name="Point">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.399587146641302,44.182328549922701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canal</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">43133.749137267448532</SimpleData>
+		<SimpleData name="Branch">9</SimpleData>
+		<SimpleData name="Point">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.422715643544063,44.160432673198116</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canal</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">46214.731218500834075</SimpleData>
+		<SimpleData name="Branch">9</SimpleData>
+		<SimpleData name="Point">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.442580433953072,44.137119612983788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canal</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">49295.713299734226894</SimpleData>
+		<SimpleData name="Branch">9</SimpleData>
+		<SimpleData name="Point">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.453202204446484,44.111110322390473</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canal</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">52376.695380967619712</SimpleData>
+		<SimpleData name="Branch">9</SimpleData>
+		<SimpleData name="Point">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.487315883043884,44.099886034796214</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canal</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">55457.677462201005255</SimpleData>
+		<SimpleData name="Branch">9</SimpleData>
+		<SimpleData name="Point">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.525768958197041,44.100933809722633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canal</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">58538.659543434390798</SimpleData>
+		<SimpleData name="Branch">9</SimpleData>
+		<SimpleData name="Point">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.564210956957833,44.102270473900077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canal</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">61619.641624667783617</SimpleData>
+		<SimpleData name="Branch">9</SimpleData>
+		<SimpleData name="Point">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.60264967735506,44.10348193298671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canal</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">64700.623705901176436</SimpleData>
+		<SimpleData name="Branch">9</SimpleData>
+		<SimpleData name="Point">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.641088010491018,44.102270250032923</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Braila</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">0.000000000000000</SimpleData>
+		<SimpleData name="Branch">25</SimpleData>
+		<SimpleData name="Point">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.994971520262069,45.28772737886495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Braila</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">3082.704405097673771</SimpleData>
+		<SimpleData name="Branch">25</SimpleData>
+		<SimpleData name="Point">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.999004910598046,45.315148552878902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Braila</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">6165.408810195347542</SimpleData>
+		<SimpleData name="Branch">25</SimpleData>
+		<SimpleData name="Point">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.020914698729875,45.33773445699979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Braila</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">9248.113215293022222</SimpleData>
+		<SimpleData name="Branch">25</SimpleData>
+		<SimpleData name="Point">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.031322319522612,45.364330222736669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Braila</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">12330.817620390695083</SimpleData>
+		<SimpleData name="Branch">25</SimpleData>
+		<SimpleData name="Point">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.029615718743052,45.39203452628557</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Braila</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">15413.522025488367944</SimpleData>
+		<SimpleData name="Branch">25</SimpleData>
+		<SimpleData name="Point">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.045922298520232,45.416264432356982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Braila</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">18496.226430586044444</SimpleData>
+		<SimpleData name="Branch">25</SimpleData>
+		<SimpleData name="Point">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.075895362641145,45.434167048573642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Braila</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">21578.930835683717305</SimpleData>
+		<SimpleData name="Branch">25</SimpleData>
+		<SimpleData name="Point">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.113368585347615,45.441455161807028</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Braila</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">24661.635240781390166</SimpleData>
+		<SimpleData name="Branch">25</SimpleData>
+		<SimpleData name="Point">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.149773088325109,45.431970752842595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Braila</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">27744.339645879063028</SimpleData>
+		<SimpleData name="Branch">25</SimpleData>
+		<SimpleData name="Point">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.181804992902205,45.415901441012807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Braila</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">30827.044050976735889</SimpleData>
+		<SimpleData name="Branch">25</SimpleData>
+		<SimpleData name="Point">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.195470344656524,45.431272534725544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Braila</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">33909.748456074412388</SimpleData>
+		<SimpleData name="Branch">25</SimpleData>
+		<SimpleData name="Point">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.206271491814299,45.457051635295279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Braila</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">36992.452861172088888</SimpleData>
+		<SimpleData name="Branch">25</SimpleData>
+		<SimpleData name="Point">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.242851531222623,45.461569178427681</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Braila</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">40075.157266269758111</SimpleData>
+		<SimpleData name="Branch">25</SimpleData>
+		<SimpleData name="Point">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.278522630840801,45.450789314855427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Braila</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">43157.861671367434610</SimpleData>
+		<SimpleData name="Branch">25</SimpleData>
+		<SimpleData name="Point">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.291370825345137,45.425355134403233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Braila</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">46240.566076465103833</SimpleData>
+		<SimpleData name="Branch">25</SimpleData>
+		<SimpleData name="Point">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.290454429707339,45.398480414191425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Braila</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">49323.270481562780333</SimpleData>
+		<SimpleData name="Branch">25</SimpleData>
+		<SimpleData name="Point">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.309593815974019,45.374298912996345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Braila</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">52405.974886660456832</SimpleData>
+		<SimpleData name="Branch">25</SimpleData>
+		<SimpleData name="Point">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.32728782242992,45.349561182070829</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Braila</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">55488.679291758126055</SimpleData>
+		<SimpleData name="Branch">25</SimpleData>
+		<SimpleData name="Point">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.34625169402938,45.325369045567278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Braila</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">58571.383696855802555</SimpleData>
+		<SimpleData name="Branch">25</SimpleData>
+		<SimpleData name="Point">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.37977793968421,45.311152706481231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Braila</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">61654.088101953471778</SimpleData>
+		<SimpleData name="Branch">25</SimpleData>
+		<SimpleData name="Point">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.41511699169147,45.299056451182203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Braila</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">64736.792507051148277</SimpleData>
+		<SimpleData name="Branch">25</SimpleData>
+		<SimpleData name="Point">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.451538062796605,45.28879381886302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Braila</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">67819.496912148824777</SimpleData>
+		<SimpleData name="Branch">25</SimpleData>
+		<SimpleData name="Point">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.487970289755889,45.278764061742727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Braila</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">70902.201317246494000</SimpleData>
+		<SimpleData name="Branch">25</SimpleData>
+		<SimpleData name="Point">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.523692776501342,45.267260691698105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Braila</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">73984.905722344177775</SimpleData>
+		<SimpleData name="Branch">25</SimpleData>
+		<SimpleData name="Point">25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.557542418110806,45.253810596088528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Braila</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">77067.610127441846998</SimpleData>
+		<SimpleData name="Branch">25</SimpleData>
+		<SimpleData name="Point">26</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.593972275502061,45.245200313251907</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Braila</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">80150.314532539516222</SimpleData>
+		<SimpleData name="Branch">25</SimpleData>
+		<SimpleData name="Point">27</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.63318782543724,45.244813730828014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Braila</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">83233.018937637185445</SimpleData>
+		<SimpleData name="Branch">25</SimpleData>
+		<SimpleData name="Point">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.669500125427572,45.235145617912458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Braila</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">86315.723342734869220</SimpleData>
+		<SimpleData name="Branch">25</SimpleData>
+		<SimpleData name="Point">29</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.70564416389475,45.22463028624788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Danube_Braila</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">89398.427747832538444</SimpleData>
+		<SimpleData name="Branch">25</SimpleData>
+		<SimpleData name="Point">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.743101361900905,45.230483018701044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">0.000000000000000</SimpleData>
+		<SimpleData name="Branch">24</SimpleData>
+		<SimpleData name="Point">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.907177594815721,45.0663342699401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">3085.091036778444959</SimpleData>
+		<SimpleData name="Branch">24</SimpleData>
+		<SimpleData name="Point">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.911833858297552,45.092871942672325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">6170.182073556889918</SimpleData>
+		<SimpleData name="Branch">24</SimpleData>
+		<SimpleData name="Point">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.939860053200871,45.111996679684985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">9255.273110335334422</SimpleData>
+		<SimpleData name="Branch">24</SimpleData>
+		<SimpleData name="Point">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.953651714364167,45.137252404945656</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">12340.364147113779836</SimpleData>
+		<SimpleData name="Branch">24</SimpleData>
+		<SimpleData name="Point">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.949724801950428,45.161506753239181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">15425.455183892225250</SimpleData>
+		<SimpleData name="Branch">24</SimpleData>
+		<SimpleData name="Point">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.947096281509513,45.188462662846099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">18510.546220670668845</SimpleData>
+		<SimpleData name="Branch">24</SimpleData>
+		<SimpleData name="Point">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.964427053967203,45.21206732596719</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">21595.637257449114259</SimpleData>
+		<SimpleData name="Branch">24</SimpleData>
+		<SimpleData name="Point">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.963138791881438,45.237962077098537</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">24680.728294227559672</SimpleData>
+		<SimpleData name="Branch">24</SimpleData>
+		<SimpleData name="Point">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.976813413651943,45.263817558028968</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">27765.819331006005086</SimpleData>
+		<SimpleData name="Branch">24</SimpleData>
+		<SimpleData name="Point">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.994971520262069,45.28772737886495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">0.000000000000000</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.904395685139676,44.774878187848117</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">3041.985969010705503</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.941728025239538,44.780466933399055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">6083.971938021411006</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.977171278859451,44.773089387779571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">9125.957907032116054</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.010321450567023,44.759522739611704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">12167.943876042822012</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.044643649950341,44.766952890825905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">15209.929845053527970</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.068918852647915,44.787557028015179</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">18251.915814064232109</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.082070792550027,44.813106351278556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">21293.901783074939885</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.093118545159324,44.838676797390477</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">24335.887752085644024</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.103235322760309,44.864713394867564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">27377.873721096348163</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.13383312017061,44.880610379067598</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">30419.859690107055940</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.132937558732173,44.901784868479396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">33461.845659117760079</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.128935141751722,44.928715519377739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">36503.831628128464217</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.137604454794463,44.955094858624349</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">39545.817597139168356</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.150293025079485,44.977440090431557</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">42587.803566149879771</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.134430176587436,45.001874113750311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">45629.789535160583910</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.137287415205808,45.027856799227337</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">48671.775504171288048</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.151639442419761,45.049839550812358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">51713.761473181992187</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.13908636105953,45.075575653373136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">54755.747442192696326</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.13804251401902,45.102837241487727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">57797.733411203407741</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.172511094378418,45.101949155796845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">60839.719380214111879</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.172146758142663,45.124043571311454</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">63881.705349224816018</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.2007902601197,45.139471846432436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">66923.691318235520157</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.1690419458095,45.153339169190758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">69965.677287246231572</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.138356864856959,45.169856657630831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">73007.663256256928435</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.105314780255092,45.184080210306121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">76049.649225267639849</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">26</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.107970472922737,45.204253859390029</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">79091.635194278336712</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">27</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.129149919190439,45.227176938030233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">82133.621163289048127</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.121338310596631,45.251366463297998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">85175.607132299759542</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">29</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.093068184773493,45.250320233482149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">88217.593101310456404</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.055798540972873,45.257225306708349</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">91259.579070321167819</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.022425873930636,45.269765384635498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Macin</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">94301.565039331864682</SimpleData>
+		<SimpleData name="Branch">20</SimpleData>
+		<SimpleData name="Point">32</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.994971520262069,45.28772737886495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">0.000000000000000</SimpleData>
+		<SimpleData name="Branch">5</SimpleData>
+		<SimpleData name="Point">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.560923120745574,44.183046543084821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">3150.754673320175698</SimpleData>
+		<SimpleData name="Branch">5</SimpleData>
+		<SimpleData name="Point">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.595574414407498,44.196522533485343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">6301.509346640351396</SimpleData>
+		<SimpleData name="Branch">5</SimpleData>
+		<SimpleData name="Point">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.632682421667877,44.205607566779875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">9452.264019960526639</SimpleData>
+		<SimpleData name="Branch">5</SimpleData>
+		<SimpleData name="Point">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.671941465732722,44.203326260302589</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">12603.018693280702792</SimpleData>
+		<SimpleData name="Branch">5</SimpleData>
+		<SimpleData name="Point">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.708343844050482,44.194649967277343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">15753.773366600878944</SimpleData>
+		<SimpleData name="Branch">5</SimpleData>
+		<SimpleData name="Point">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.74391404022796,44.205338517084257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunarea_Veche</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">18904.528039921053278</SimpleData>
+		<SimpleData name="Branch">5</SimpleData>
+		<SimpleData name="Point">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.77361231665207,44.223902634569896</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">0.000000000000000</SimpleData>
+		<SimpleData name="Branch">7</SimpleData>
+		<SimpleData name="Point">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.625693890179107,44.254695007053023</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">3001.024555531329042</SimpleData>
+		<SimpleData name="Branch">7</SimpleData>
+		<SimpleData name="Point">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.655613567214875,44.269613192731207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">6002.049111062658085</SimpleData>
+		<SimpleData name="Branch">7</SimpleData>
+		<SimpleData name="Point">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.667605996666186,44.29345977346901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">9003.073666593987582</SimpleData>
+		<SimpleData name="Branch">7</SimpleData>
+		<SimpleData name="Point">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.695292468361746,44.310423657026384</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">12004.098222125316170</SimpleData>
+		<SimpleData name="Branch">7</SimpleData>
+		<SimpleData name="Point">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.729378307683767,44.321827631507105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">15005.122777656644757</SimpleData>
+		<SimpleData name="Branch">7</SimpleData>
+		<SimpleData name="Point">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.765610966574357,44.322625466278268</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">18006.147333187975164</SimpleData>
+		<SimpleData name="Branch">7</SimpleData>
+		<SimpleData name="Point">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.801677664340719,44.326726249745668</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">21007.171888719301933</SimpleData>
+		<SimpleData name="Branch">7</SimpleData>
+		<SimpleData name="Point">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.831640029245285,44.342786409116194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">24008.196444250632339</SimpleData>
+		<SimpleData name="Branch">7</SimpleData>
+		<SimpleData name="Point">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.846591240650451,44.36747180097553</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">27009.220999781962746</SimpleData>
+		<SimpleData name="Branch">7</SimpleData>
+		<SimpleData name="Point">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.86267899202825,44.391894390398889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">30010.245555313289515</SimpleData>
+		<SimpleData name="Branch">7</SimpleData>
+		<SimpleData name="Point">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.890862399290345,44.409285499438759</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">33011.270110844619921</SimpleData>
+		<SimpleData name="Branch">7</SimpleData>
+		<SimpleData name="Point">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.924011615657015,44.420054001832646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">36012.294666375950328</SimpleData>
+		<SimpleData name="Branch">7</SimpleData>
+		<SimpleData name="Point">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.931235200207432,44.446233751429297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">39013.319221907280735</SimpleData>
+		<SimpleData name="Branch">7</SimpleData>
+		<SimpleData name="Point">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.939066404753437,44.472639579622779</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">42014.343777438603865</SimpleData>
+		<SimpleData name="Branch">7</SimpleData>
+		<SimpleData name="Point">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.916353140027251,44.487484726632061</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">45015.368332969934272</SimpleData>
+		<SimpleData name="Branch">7</SimpleData>
+		<SimpleData name="Point">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.895331380364485,44.504151700119785</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">48016.392888501264679</SimpleData>
+		<SimpleData name="Branch">7</SimpleData>
+		<SimpleData name="Point">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.912332748018656,44.52816478627016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">51017.417444032595085</SimpleData>
+		<SimpleData name="Branch">7</SimpleData>
+		<SimpleData name="Point">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.909639462420994,44.553817318679577</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">54018.441999563925492</SimpleData>
+		<SimpleData name="Branch">7</SimpleData>
+		<SimpleData name="Point">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.923498597357067,44.571844970595407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">57019.466555095248623</SimpleData>
+		<SimpleData name="Branch">7</SimpleData>
+		<SimpleData name="Point">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.920974341820266,44.595539771468154</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">60020.491110626579029</SimpleData>
+		<SimpleData name="Branch">7</SimpleData>
+		<SimpleData name="Point">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.915788737262986,44.617230251886212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">63021.515666157909436</SimpleData>
+		<SimpleData name="Branch">7</SimpleData>
+		<SimpleData name="Point">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.921185817801764,44.639949262033447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">66022.540221689239843</SimpleData>
+		<SimpleData name="Branch">7</SimpleData>
+		<SimpleData name="Point">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.897846975234167,44.658693234688108</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">69023.564777220570249</SimpleData>
+		<SimpleData name="Branch">7</SimpleData>
+		<SimpleData name="Point">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.889585200801161,44.683725895779148</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Borcea</name>
+	<ExtendedData><SchemaData schemaUrl="#danube">
+		<SimpleData name="Chainage">72024.589332751900656</SimpleData>
+		<SimpleData name="Branch">7</SimpleData>
+		<SimpleData name="Point">25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.86285727498128,44.701807185631068</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

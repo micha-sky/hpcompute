@@ -2,7 +2,7 @@ module Parser
   require 'csv'
   extend self
 
-  # @return [hash]
+  # @return hash
   def read_outlocs(filename, river, branch, point)
     result = {}
     times = []
