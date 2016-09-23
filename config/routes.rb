@@ -5,6 +5,7 @@ Rails.application.routes.draw do
   get 'main/results' => 'main#get_results'
   get 'main/map' => 'main#map'
   get 'main/get_points' => 'main#get_points'
+  get 'main/crossection' => 'main#get_crossection'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

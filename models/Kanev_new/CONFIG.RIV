@@ -1,5 +1,0 @@
- 10 days
-3600 43200 3600 43200 sec time step
-20 0.5 0.25 0.5	 .041666667       output : in day 
-Branch; Grid for output data
-Hydrodinamic: 0

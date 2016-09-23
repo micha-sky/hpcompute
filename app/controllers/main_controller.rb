@@ -48,10 +48,10 @@ class MainController < ApplicationController
   end
 
   def get_results
-    river=params[:river]
-    branch=params[:branch]
-    point=params[:point]
-    path=params[:path]
+    river = params[:river]
+    branch = params[:branch]
+    point = params[:point]
+    path = params[:path]
 
     filename = File.join(path, 'outlocs/outloc.0001')
 

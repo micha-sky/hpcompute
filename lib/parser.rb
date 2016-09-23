@@ -28,4 +28,15 @@ module Parser
     result
 
   end
+
+  def read_crossection(branch, point, path)
+
+    File.open(path) do |f|
+      f.each_line do |line|
+        if line =~ /"#{branch},#{point}"/
+          return line
+        end
+      end
+    end
+    end
 end

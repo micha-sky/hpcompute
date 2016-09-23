@@ -37,13 +37,18 @@ do (main = (window.main = window.main || {}), $ = jQuery) ->
           marker = new google.maps.Marker(
             position: latLng,
             map: _map,
-            icon: 'http://www.vitromolecularlaboratories.com/wp-content/themes/mercury/images/slider-dot.png'
+            icon: marker_path,
             branch: point.branch,
             point: point.point,
             river: point.river
           )
-          infowindow = buildInfoWindow(point)
-          marker.infoWindow = infowindow
+          infoWindow = buildInfoWindow(point)
+          marker.infoWindow = infoWindow
+
+          google.maps.event.addListener infoWindow, 'domready', ()->
+            $('.get-results-button').unbind('click')
+            $('.get-results-button').click ()->
+              getResults(point.river, point.branch, point.point, _output_path)
 
 
           marker.addListener 'click', () ->
@@ -51,16 +56,18 @@ do (main = (window.main = window.main || {}), $ = jQuery) ->
             _selected_point.branch = marker.branch
             _selected_point.river = marker.river
 
-            infowindow.open(_map, this)
+            infoWindow.open(_map, this)
           _markers.push(marker)
+
           setMapCenterAndZoom()
       error: (data) ->
         console.log(data)
 
   getResults = (river, branch, point, path) ->
+    alert('LEL')
     $.ajax
       type: 'get'
-      url: 'get_results'
+      url: 'results'
       data:
         river: river
         branch: branch
@@ -83,8 +90,6 @@ do (main = (window.main = window.main || {}), $ = jQuery) ->
     '</b></div>' + '<div><b>Point: ' + point.point + '</div>' +
     '</b></div>' + '<div class="get-results-button"><span class="btn btn-success">Get results</span></div>'
 
-
-
     infoWindow = new google.maps.InfoWindow(content: contentString)
 
 
@@ -101,6 +106,8 @@ do (main = (window.main = window.main || {}), $ = jQuery) ->
       _map.fitBounds(bounds)
 
     return
+
+
 
   getBoundsForMarkers = () ->
     bounds = new google.maps.LatLngBounds()

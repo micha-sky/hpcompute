@@ -1,6 +1,6 @@
 namespace :app do
   namespace :river do
-    desc 'Import river points form kml file'
+    desc 'Import river points from kml file'
     task :import, [:river, :file_name] => :environment do |t, args|
       file_name = args.file_name
       river = args.river
@@ -22,7 +22,7 @@ namespace :app do
             :latitude => lat.to_f, :longitude => lon.to_f)
             point.save
             points << point
-            print "#{lat},#{lon}\n"
+            print "#{branch},#{point}\n"
           end
         end
       end
