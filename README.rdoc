@@ -4,7 +4,7 @@ This README would normally document whatever steps are necessary to get the
 application up and running.
 
 [![Build Status](https://travis-ci.org/micha-sky/hpcompute.svg)](https://travis-ci.org/micha-sky/hpcompute)
-[![Build Status](https://travis-ci.org/micha-sky/hp-compute.png)](https://travis-ci.org/micha-sky/micha-sky)
+[![Build status](https://travis-ci.org/micha-sky/hpcompute.svg)](https://travis-ci.org/micha-sky/hpcompute)
 
 
 Things you may want to cover:
